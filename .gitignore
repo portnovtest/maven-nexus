@@ -1,0 +1,4 @@
+maven-nexus.iml
+
+# Project exclude paths
+/target/
